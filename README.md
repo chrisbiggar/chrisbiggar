@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrisbiggar
-- 👀 I’m interested in game dev, 
+- 👀 I’m interested in anything, 
 - 🌱 I’m currently learning libgdx,
 - 📫 How to reach me: ill be deep in the woods via my canoe.
 
