@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisbiggar
-- 👀 I’m interested in anything, 
-- 🌱 I’m currently learning libgdx,
+- 👀 I’m interested in simulation and strategy games, 
+- 🌱 I’m currently learning me some gamedev,
 - 📫 How to reach me: ill be deep in the woods via my canoe.
 
 <!---
